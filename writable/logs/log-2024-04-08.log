@@ -1,0 +1,62 @@
+CRITICAL - 2024-04-08 07:23:12 --> CodeIgniter\Filters\Exceptions\FilterException: "auth" filter must have a matching alias defined.
+in SYSTEMPATH/Filters/Filters.php on line 355.
+ 1 SYSTEMPATH/Filters/Filters.php(355): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('auth')
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\Filters\Filters->enableFilter('auth', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Applications/XAMPP/xamppfiles/htdocs/buccheri/public/index.php')
+CRITICAL - 2024-04-08 07:23:35 --> CodeIgniter\Filters\Exceptions\FilterException: "auth" filter must have a matching alias defined.
+in SYSTEMPATH/Filters/Filters.php on line 355.
+ 1 SYSTEMPATH/Filters/Filters.php(355): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('auth')
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\Filters\Filters->enableFilter('auth', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Applications/XAMPP/xamppfiles/htdocs/buccheri/public/index.php')
+CRITICAL - 2024-04-08 07:24:14 --> CodeIgniter\Filters\Exceptions\FilterException: "auth" filter must have a matching alias defined.
+in SYSTEMPATH/Filters/Filters.php on line 355.
+ 1 SYSTEMPATH/Filters/Filters.php(355): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('auth')
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\Filters\Filters->enableFilter('auth', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Applications/XAMPP/xamppfiles/htdocs/buccheri/public/index.php')
+CRITICAL - 2024-04-08 07:25:27 --> CodeIgniter\Filters\Exceptions\FilterException: "auth" filter must have a matching alias defined.
+in SYSTEMPATH/Filters/Filters.php on line 355.
+ 1 SYSTEMPATH/Filters/Filters.php(355): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('auth')
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\Filters\Filters->enableFilter('auth', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Applications/XAMPP/xamppfiles/htdocs/buccheri/public/index.php')
+CRITICAL - 2024-04-08 07:28:01 --> CodeIgniter\Filters\Exceptions\FilterException: "auth" filter must have a matching alias defined.
+in SYSTEMPATH/Filters/Filters.php on line 355.
+ 1 SYSTEMPATH/Filters/Filters.php(355): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('auth')
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\Filters\Filters->enableFilter('auth', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Applications/XAMPP/xamppfiles/htdocs/buccheri/public/index.php')
+CRITICAL - 2024-04-08 07:28:02 --> CodeIgniter\Filters\Exceptions\FilterException: "auth" filter must have a matching alias defined.
+in SYSTEMPATH/Filters/Filters.php on line 355.
+ 1 SYSTEMPATH/Filters/Filters.php(355): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('auth')
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\Filters\Filters->enableFilter('auth', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Applications/XAMPP/xamppfiles/htdocs/buccheri/public/index.php')
+CRITICAL - 2024-04-08 07:29:20 --> CodeIgniter\Filters\Exceptions\FilterException: "authfilter" filter must have a matching alias defined.
+in SYSTEMPATH/Filters/Filters.php on line 355.
+ 1 SYSTEMPATH/Filters/Filters.php(355): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('authfilter')
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\Filters\Filters->enableFilter('authfilter', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Applications/XAMPP/xamppfiles/htdocs/buccheri/public/index.php')
+CRITICAL - 2024-04-08 07:29:21 --> CodeIgniter\Filters\Exceptions\FilterException: "authfilter" filter must have a matching alias defined.
+in SYSTEMPATH/Filters/Filters.php on line 355.
+ 1 SYSTEMPATH/Filters/Filters.php(355): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('authfilter')
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\Filters\Filters->enableFilter('authfilter', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Applications/XAMPP/xamppfiles/htdocs/buccheri/public/index.php')
+CRITICAL - 2024-04-08 07:29:35 --> Error: Class "App\Filters\AuthFilter" not found
+in SYSTEMPATH/Filters/Filters.php on line 175.
+ 1 SYSTEMPATH/CodeIgniter.php(475): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Applications/XAMPP/xamppfiles/htdocs/buccheri/public/index.php')
